@@ -2,3 +2,5 @@ Sample file to put into git.
 This is a text file.
 
 I'll add another line.
+
+I added this from the branch.
